@@ -1,27 +1,24 @@
-# Hi, I'm Carlos Piriz 👋
+# Hi, I'm Carlos Piriz 👋 (Uruguay, Remote)
 
-Data-focused professional based in Uruguay (Durazno). I currently work in the public sector, building and improving data workflows: ETL processes, automation, and reporting for decision-making.
+Data / Analytics professional transitioning into **Data Engineering / Data Science**.  
+I build **reliable pipelines**, automate reporting, and turn messy data into decision-ready datasets.
 
-I have hands-on experience creating KPI dashboards and delivering actionable insights for stakeholders. I also hold a **Data Science with Python** diploma and I’m finishing my **IT Bachelor’s degree**. I’m self-driven and continuously improving both technical and communication skills.
+- ✅ Strong: SQL, ETL, Reporting, Automation, Docker
+- 🚧 Building: Airflow, Spark, Databricks/Snowflake patterns, dbt, Cloud (AWS/Azure)
+- 🌎 English: Intermediate (improving actively)
 
-## 🔎 What I do
-- Build and maintain **ETL pipelines** and automated workflows
-- Develop **dynamic reports & dashboards** (KPI monitoring and analysis)
-- Work with **SQL + Python** for data processing and analytics
-- Use **Docker** and **Linux/Windows** environments for deployment and operations
+## 🔥 Featured Projects (Portfolio)
+- **BigDataStack (Docker Compose Lakehouse Lab)** → Airflow + Spark + MinIO + MariaDB + Superset + Jupyter  
+  *(repo link acá cuando lo publiques)*  
+- **Project 2 (Analytics / DS end-to-end)** → EDA → feature engineering → model → dashboard  
+  *(repo link)*
 
-## 🌐 Links
+## 🧰 Tech
+**Data/ETL:** SQL Server, PostgreSQL, MySQL, Python (Pandas)  
+**Platforms:** Linux, Docker / Docker Compose  
+**BI:** Dashboards & KPI reporting (Power BI / similar)  
+**In progress:** Airflow, Spark, dbt, Snowflake, AWS/Azure
+
+## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/carlospiriz
-
-## 🛠 Tech Stack
-**Data & Analytics**
-- Python (Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn)
-
-**Databases**
-- SQL Server, MySQL, PostgreSQL
-
-**Ops**
-- Docker / Docker Compose
-- Linux (Ubuntu), Windows Server
-
-
+- GitHub: https://github.com/carlos1680
