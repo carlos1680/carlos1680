@@ -1,31 +1,27 @@
-# 🤔 Sobre mi:
-Hola!! Soy Carlos Piriz 👋
-<br>Actualmente trabajo como en la intendencia de Durazno.
-Profesional con experiencia en el manejo integral de datos, especializado en la implementación de procesos ETL, automatización de flujos de trabajo y generación de reportes dinámicos. He desarrollado dashboards interactivos para visualización de KPIs y realizado análisis de datos orientados a la toma de decisiones. Poseo un diploma en Ciencia de Datos con Python, lo que me permite aplicar conocimientos en programación, estadística y visualización para transformar datos en información valiosa.
+# Hi, I'm Carlos Piriz 👋
 
-Estoy finalizanco la licenciatura de TI y soy un autodidacta por naturaleza.
+Data-focused professional based in Uruguay (Durazno). I currently work in the public sector, building and improving data workflows: ETL processes, automation, and reporting for decision-making.
 
-Me gusta ir mejorando mis habilidades tècnicas y personales.
+I have hands-on experience creating KPI dashboards and delivering actionable insights for stakeholders. I also hold a **Data Science with Python** diploma and I’m finishing my **IT Bachelor’s degree**. I’m self-driven and continuously improving both technical and communication skills.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/carlospiriz) 
+## 🔎 What I do
+- Build and maintain **ETL pipelines** and automated workflows
+- Develop **dynamic reports & dashboards** (KPI monitoring and analysis)
+- Work with **SQL + Python** for data processing and analytics
+- Use **Docker** and **Linux/Windows** environments for deployment and operations
 
-# 💻 Tech Stack:
-![Docker](https://badgen.net/badge/docker/compose/blue?icon=docker)
-![Windows](https://badgen.net/badge/windows/servers/blue?icon=windows)
-![Linux](https://badgen.net/badge/linux/servers/blue?icon=ubuntu)
-<br>
-![SQLServer](https://badgen.net/badge/sql/server/red?icon=sqlserver)
-![Mysql](https://badgen.net/badge/mysql/server/red?icon=mysql)
-![Postgres](https://badgen.net/badge/postgres/server/red?icon=postgres)
-<br>
-![Python](https://badgen.net/badge/data/python/green?icon=python)
-![Matplotlib](https://badgen.net/badge/data/matplotlib/green?icon=matplotlib)
-![NumPy](https://badgen.net/badge/data/numyy/green?icon=numpy)
-![Pandas](https://badgen.net/badge/data/pandas/green?icon=pandas)
-![Plotly](https://badgen.net/badge/data/plotly/green?icon=plotly)
-![scikit-learn](https://badgen.net/badge/data/scikit-learn/green?icon=scikit-learn)
-![Scipy](https://badgen.net/badge/data/scipy/green?icon=scipy)
-<br>
-![GitHub](https://badgen.net/badge/data/gitHub/orange?icon=GitHub)
+## 🌐 Links
+- LinkedIn: https://www.linkedin.com/in/carlospiriz
+
+## 🛠 Tech Stack
+**Data & Analytics**
+- Python (Pandas, NumPy, Matplotlib, Plotly, SciPy, scikit-learn)
+
+**Databases**
+- SQL Server, MySQL, PostgreSQL
+
+**Ops**
+- Docker / Docker Compose
+- Linux (Ubuntu), Windows Server
+
 
