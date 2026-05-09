@@ -1,24 +1,38 @@
-# Hi, I'm Carlos Piriz 👋 (Uruguay, Remote)
+# Hi, I'm Carlos Piriz 👋 — Uruguay 🇺🇾 | Remote
 
-Data / Analytics professional transitioning into **Data Engineering / Data Science**.  
-I build **reliable pipelines**, automate reporting, and turn messy data into decision-ready datasets.
+Data Engineer with 15+ years in software development and systems.  
+I design and deploy **end-to-end data platforms** — from ingestion to BI — 
+using modern open-source stacks on Docker.
 
-- ✅ Strong: SQL, ETL, Reporting, Automation, Docker
-- 🚧 Building: Airflow, Spark, Databricks/Snowflake patterns, dbt, Cloud (AWS/Azure)
-- 🌎 English: Intermediate (improving actively)
+## ⚡ What I build
 
-## 🔥 Featured Projects (Portfolio)
-- **BigDataStack (Docker Compose Lakehouse Lab)** → Airflow + Spark + MinIO + MariaDB + Superset + Jupyter  
-  *(repo link acá cuando lo publiques)*  
-- **Project 2 (Analytics / DS end-to-end)** → EDA → feature engineering → model → dashboard  
-  *(repo link)*
+- **Batch & streaming pipelines** — Airflow DAGs, Kafka topics, Spark jobs
+- **Data lakehouses** — MinIO (S3-compatible) + Medallion Architecture
+- **ML platforms** — MLflow experiment tracking + local LLMs with Ollama
+- **Automation** — n8n workflows, webhook integrations, OAuth
+- **BI & Analytics** — Apache Superset dashboards, JupyterLab notebooks
 
-## 🧰 Tech
-**Data/ETL:** SQL Server, PostgreSQL, MySQL, Python (Pandas)  
-**Platforms:** Linux, Docker / Docker Compose  
-**BI:** Dashboards & KPI reporting (Power BI / similar)  
-**In progress:** Airflow, Spark, dbt, Snowflake, AWS/Azure
+## 🛠 Stack
+
+**Orchestration:** Apache Airflow (CeleryExecutor + Flower + Redis)  
+**Processing:** Apache Spark (Master + Workers + History Server)  
+**Streaming:** Apache Kafka + Zookeeper  
+**Storage:** MinIO, MariaDB, PostgreSQL  
+**ML:** MLflow, Ollama (local LLMs)  
+**BI:** Apache Superset, JupyterLab  
+**Automation:** n8n, ngrok  
+**Infra:** Docker Compose, Bash, Linux
+
+## 🔥 Featured Projects
+
+**[BigData Stack Platform](https://github.com/carlos1680/bigdata_stack_platform)**  
+Full local data lakehouse: Airflow + Spark + Kafka + MinIO + Superset + MLflow + Ollama + n8n.  
+One `docker compose up` to rule them all.
+
+**[E2E Payment Fraud Pipeline](https://github.com/carlos1680/e2e-payment-fraud-pipeline)**  
+End-to-end fraud detection: Medallion Architecture, PySpark ML, Airflow DAGs, MinIO S3, MariaDB.
 
 ## 📫 Contact
+
+- Email: piriz.carlos@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/carlospiriz
-- GitHub: https://github.com/carlos1680
