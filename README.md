@@ -32,6 +32,12 @@ One `docker compose up` to rule them all.
 **[E2E Payment Fraud Pipeline](https://github.com/carlos1680/e2e-payment-fraud-pipeline)**  
 End-to-end fraud detection: Medallion Architecture, PySpark ML, Airflow DAGs, MinIO S3, MariaDB.
 
+**[Smart Inventory — Monte Carlo Risk Engine](https://github.com/carlos1680/sistema_de_inventario_inteligente)**  
+Stock-out probability forecasting with PySpark Monte Carlo simulation. p50/p95 demand, Airflow + Superset.
+
+**[Market Analytics & ML Prediction Pipeline](https://github.com/carlos1680/mi_custom_trading)**  
+Financial data pipeline: Yahoo Finance + Binance APIs → Spark → MLflow → backtesting + signal generation.
+
 ## 📫 Contact
 
 - Email: piriz.carlos@gmail.com  
